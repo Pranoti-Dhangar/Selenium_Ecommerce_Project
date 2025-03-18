@@ -11,6 +11,6 @@
 <li>Searching</li>
 <li>Saving and removing Items from the Wishlist</li>
 <li>Adding and removing Items from the cart</li> 
-<li>Checking out</li>
+<li>Checking out</li> 
 <li>Closing Account</li>
 </ul>
